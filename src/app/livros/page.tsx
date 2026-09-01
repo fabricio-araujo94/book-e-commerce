@@ -22,6 +22,7 @@ export default async function BooksPage({ searchParams }: PageProps) {
 
   return (
     <CatalogClient
+      key={`${params.categoria ?? "all"}-${params.search ?? ""}-${params.sortBy ?? "relevance"}`}
       initialBooks={books}
       categories={categories}
       initialCategory={params.categoria}
