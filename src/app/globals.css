@@ -1,5 +1,19 @@
 @import "tailwindcss";
 
+@theme {
+  --color-primary: #1a1a2e;
+  --color-primary-hover: #16213e;
+  --color-accent: #e94560;
+  --color-accent-hover: #d63a55;
+  --color-surface: #ffffff;
+  --color-background: #f8f9fa;
+  --color-text: #1a1a2e;
+  --color-text-muted: #6b7280;
+  --color-border: #e5e7eb;
+  --color-success: #10b981;
+  --color-error: #ef4444;
+}
+
 :root {
   --color-primary: #1a1a2e;
   --color-primary-hover: #16213e;
@@ -15,14 +29,12 @@
   --font-sans: var(--font-inter), system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: #0f0f1a;
-    --color-surface: #1a1a2e;
-    --color-text: #f1f5f9;
-    --color-text-muted: #94a3b8;
-    --color-border: #334155;
-  }
+.dark {
+  --color-background: #0f0f1a;
+  --color-surface: #1a1a2e;
+  --color-text: #f1f5f9;
+  --color-text-muted: #94a3b8;
+  --color-border: #334155;
 }
 
 * {
@@ -42,6 +54,7 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 a {
@@ -57,6 +70,27 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+::selection {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 @layer utilities {
