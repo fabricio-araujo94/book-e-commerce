@@ -15,7 +15,7 @@
     "format": "capa dura",
     "pages": 464,
     "isbn": "9788576082675",
-    "coverUrl": "https://via.placeholder.com/300x450/1a1a2e/ffffff?text=Clean+Code",
+    "coverUrl": "https://m.media-amazon.com/images/I/71QknS5fW4L.jpg",
     "synopsis": "Mesmo código ruim pode funcionar. Mas se o código não for limpo, pode levar uma organização de desenvolvimento ao seu joelho. Todos os anos, incontáveis horas e recursos significativos são perdidos por causa de código mal escrito. Mas não precisa ser assim. O lendário especialista em software Robert C. Martin apresenta um paradigma revolucionário com Clean Code: A Handbook of Agile Software Craftsmanship. Martin se uniu a seus colegas da Object Mentor para destilar suas melhores práticas ágeis de limpeza de código 'on the fly' em um livro que vai instilar em você os valores de um artesão de software e fazer de você um programador melhor - mas apenas se você trabalhar para isso.",
     "inStock": true,
     "featured": true
@@ -36,7 +36,7 @@
     "format": "capa dura",
     "pages": 366,
     "isbn": "9788577800209",
-    "coverUrl": "https://via.placeholder.com/300x450/16213e/ffffff?text=Design+Patterns",
+    "coverUrl": "https://m.media-amazon.com/images/I/9169z5-CtML._UF1000,1000_QL80_.jpg",
     "synopsis": "Este livro clássico apresenta 23 padrões de projeto fundamentais para criar software orientado a objetos flexível, reutilizável e de fácil manutenção. Os autores - conhecidos como 'Gang of Four' (GoF) - catalogam soluções recorrentes para problemas comuns de design de software. Cada padrão descreve as circunstâncias em que é aplicável, as restrições e consequências de sua aplicação, e exemplos de código em C++ e Smalltalk. Leitura obrigatória para desenvolvedores que desejam elevar suas habilidades de arquitetura de software.",
     "inStock": true,
     "featured": true
@@ -56,7 +56,7 @@
     "format": "brochura",
     "pages": 448,
     "isbn": "9788576089674",
-    "coverUrl": "https://via.placeholder.com/300x450/e94560/ffffff?text=Refactoring",
+    "coverUrl": "https://m.media-amazon.com/images/I/81QMvdh7L0L._UF1000,1000_QL80_.jpg",
     "synopsis": "A refatoração é o processo de melhorar o design de código existente sem alterar seu comportamento externo. Martin Fowler, uma das maiores autoridades em desenvolvimento de software, apresenta mais de 70 refatorações comprovadas, cada uma com motivação, mecânica e exemplos em JavaScript. A segunda edição atualizada inclui refatorações para JavaScript ES6+, novos exemplos e uma estrutura reorganizada para facilitar o aprendizado. Essencial para desenvolvedores que lidam com código legado ou desejam manter seus codebases saudáveis.",
     "inStock": true,
     "featured": true
@@ -77,7 +77,7 @@
     "format": "capa dura",
     "pages": 560,
     "isbn": "9780321125217",
-    "coverUrl": "https://via.placeholder.com/300x450/0f0f1a/ffffff?text=Domain-Driven+Design",
+    "coverUrl": "https://m.media-amazon.com/images/I/81ykBjVaUjL._AC_UF1000,1000_QL80_.jpg",
     "synopsis": "Eric Evans apresenta uma abordagem sistemática para o design de software complexo, centrada no domínio do problema. O Domain-Driven Design (DDD) fornece um framework para criar modelos de domínio ricos que refletem a linguagem ubíqua dos especialistas do negócio. O livro cobre building blocks como Entidades, Value Objects, Aggregates, Repositories, Factories e Services, além de padrões estratégicos como Bounded Contexts e Context Mapping. Referência fundamental para arquitetos e desenvolvedores sêniores.",
     "inStock": true,
     "featured": false
@@ -97,7 +97,7 @@
     "format": "brochura",
     "pages": 240,
     "isbn": "9780321146533",
-    "coverUrl": "https://via.placeholder.com/300x450/1a1a2e/ffffff?text=TDD+By+Example",
+    "coverUrl": "https://m.media-amazon.com/images/I/81AxMld0fVL.jpg",
     "synopsis": "Kent Beck, criador do Extreme Programming, ensina Test-Driven Development (TDD) através de exemplos práticos. O livro demonstra o ciclo Red-Green-Refactor na prática, desenvolvendo uma biblioteca de multiplicação de moedas e um framework de testes xUnit do zero. A abordagem baseada em exemplos torna os conceitos acessíveis e mostra como TDD leva a designs mais limpos, código mais confiável e maior confiança nas mudanças. Leitura essencial para desenvolvedores que querem adotar TDD em seus projetos.",
     "inStock": true,
     "featured": false
@@ -118,7 +118,7 @@
     "format": "e-book",
     "pages": 350,
     "isbn": "9781736049112",
-    "coverUrl": "https://via.placeholder.com/300x450/e94560/ffffff?text=System+Design+Interview",
+    "coverUrl": "https://m.media-amazon.com/images/I/615KGTRs1OL._UF1000,1000_QL80_.jpg",
     "synopsis": "Guia definitivo para se preparar para entrevistas de design de sistemas em grandes empresas de tecnologia. Alex Xu, ex-engenheiro do Facebook e criador do ByteByteGo, apresenta um framework passo a passo para abordar qualquer problema de design de sistema. O livro cobre 15 problemas reais de entrevista (como design de URL shortener, rate limiter, chat system, search engine) com diagramas detalhados, trade-offs e deep-dives. Inclui checklist de preparação e templates de resposta.",
     "inStock": true,
     "featured": true
@@ -138,7 +138,7 @@
     "format": "capa dura",
     "pages": 592,
     "isbn": "9781492034025",
-    "coverUrl": "https://via.placeholder.com/300x450/16213e/ffffff?text=Building+Microservices",
+    "coverUrl": "https://m.media-amazon.com/images/I/81dmHMoJDjL.jpg",
     "synopsis": "A segunda edição do guia definitivo sobre microsserviços por Sam Newman. O livro aborda desde os fundamentos (o que são microsserviços, quando usar) até tópicos avançados: decomposição de domínios, comunicação entre serviços (síncrona e assíncrona), gerenciamento de dados, deployment, observabilidade, segurança e testes. Inclui estudos de caso reais e anti-padrões comuns. Essencial para arquitetos e equipes migrando de monólitos ou construindo sistemas nativos de nuvem.",
     "inStock": true,
     "featured": false
@@ -159,7 +159,7 @@
     "format": "capa dura",
     "pages": 520,
     "isbn": "9781098110304",
-    "coverUrl": "https://via.placeholder.com/300x450/0f0f1a/ffffff?text=Kubernetes+Up+Running",
+    "coverUrl": "https://m.media-amazon.com/images/I/81fH7yJ8rsL._AC_UF1000,1000_QL80_AIweblab1381794,T1_.jpg",
     "synopsis": "Escrito por três dos criadores do Kubernetes (Kelsey Hightower, Brendan Burns, Joe Beda), este livro é a referência autoritativa para entender e operar Kubernetes em produção. Cobre arquitetura, objetos fundamentais (Pods, Services, Deployments, ConfigMaps, Secrets), networking, storage, security, operadores, CRDs e patterns avançados. A terceira edição inclui novidades do Kubernetes 1.25+. Leitura obrigatória para engenheiros de plataforma, SREs e desenvolvedores cloud-native.",
     "inStock": true,
     "featured": true
@@ -179,7 +179,7 @@
     "format": "brochura",
     "pages": 256,
     "isbn": "9788575225639",
-    "coverUrl": "https://via.placeholder.com/300x450/1a1a2e/ffffff?text=Grokking+Algorithms",
+    "coverUrl": "https://m.media-amazon.com/images/I/71Vkg7GfPFL.jpg",
     "synopsis": "Uma introdução visual e acessível a algoritmos e estruturas de dados. Aditya Bhargava usa ilustrações e exemplos do mundo real para explicar conceitos como busca binária, ordenação (selection sort, quicksort), recursão, hash tables, grafos (BFS, DFS, Dijkstra), programação dinâmica e algoritmos gulosos. O livro evita notação matemática complexa, focando na intuição por trás de cada algoritmo. Ideal para autodidatas, estudantes e desenvolvedores que querem fortalecer seus fundamentos de CS.",
     "inStock": true,
     "featured": false
@@ -200,7 +200,7 @@
     "format": "capa dura",
     "pages": 616,
     "isbn": "9781449373320",
-    "coverUrl": "https://via.placeholder.com/300x450/e94560/ffffff?text=DDIA",
+    "coverUrl": "https://m.media-amazon.com/images/I/91YfNb49PLL._AC_UF1000,1000_QL80_.jpg",
     "synopsis": "Considerado a 'bíblia' de sistemas de dados modernos, este livro de Martin Kleppmann explora os princípios fundamentais por trás de sistemas confiáveis, escaláveis e mantíveis. Cobre modelos de dados (relacional, documento, grafo), storage engines (LSM-trees, B-trees), encoding, replicação, particionamento, transações, consistência, consenso, batch e stream processing. A abordagem baseada em princípios (não tecnologias específicas) torna o conteúdo atemporal. Leitura obrigatória para engenheiros de dados, arquitetos e backend developers sêniores.",
     "inStock": true,
     "featured": true
