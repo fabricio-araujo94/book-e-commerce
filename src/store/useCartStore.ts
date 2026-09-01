@@ -65,7 +65,7 @@ export const useCartStore = create<CartState>()(
       },
     }),
     {
-      name: "devbooks-cart-storage",
+      name: "mainbooks-cart-storage",
     }
   )
 );

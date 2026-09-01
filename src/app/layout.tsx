@@ -14,16 +14,16 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Livraria DevBooks",
-    template: "%s | DevBooks",
+    default: "Livraria MainBooks",
+    template: "%s | MainBooks",
   },
   description: "Sua livraria online de livros técnicos e de programação",
   metadataBase: new URL("http://localhost:3000"),
   openGraph: {
-    title: "Livraria DevBooks",
+    title: "Livraria MainBooks",
     description: "Sua livraria online de livros técnicos e de programação",
     locale: "pt_BR",
-    siteName: "DevBooks",
+    siteName: "MainBooks",
     type: "website",
   },
   robots: {

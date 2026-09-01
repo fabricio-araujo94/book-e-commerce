@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: book.title,
     description: book.synopsis.slice(0, 160),
     openGraph: {
-      title: `${book.title} | DevBooks`,
+      title: `${book.title} | MainBooks`,
       description: book.synopsis.slice(0, 160),
       images: [
         {
