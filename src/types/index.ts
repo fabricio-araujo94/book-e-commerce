@@ -48,3 +48,8 @@ export interface PriceBounds {
   min: number;
   max: number;
 }
+
+export interface CartItem {
+  book: Book;
+  quantity: number;
+}
