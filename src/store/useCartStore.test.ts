@@ -14,6 +14,13 @@ const mockBook: Book = {
   ratingsCount: 120,
   synopsis: "A Handbook of Agile Software Craftsmanship",
   featured: true,
+  year: 2008,
+  publisher: "Prentice Hall",
+  language: "Português",
+  format: "brochura",
+  pages: 464,
+  isbn: "978-0132350884",
+  inStock: true,
 };
 
 describe("useCartStore", () => {
