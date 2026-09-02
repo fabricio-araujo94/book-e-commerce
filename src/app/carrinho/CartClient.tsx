@@ -339,7 +339,10 @@ export function CartClient() {
 
             {/* Checkout Action */}
             <button
-              onClick={() => alert("Simulação: Pedido finalizado com sucesso!")}
+              onClick={() => {
+                clearCart();
+                alert("Simulação: Pedido finalizado com sucesso!");
+              }}
               className="w-full h-12 rounded-xl bg-indigo-600 text-white font-bold text-sm flex items-center justify-center gap-2 hover:bg-indigo-700 active:scale-[0.98] transition-all shadow-md focus-visible:ring-2 focus-visible:ring-indigo-500"
             >
               <span>Finalizar Compra</span>
